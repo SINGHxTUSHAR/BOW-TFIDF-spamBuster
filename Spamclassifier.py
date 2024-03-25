@@ -1,6 +1,6 @@
 #@author: TUSHAR SINGH
 #@SMS_SPAM_DETECTION
-#IDE: Syder
+#@IDE: Syder
 
 # importing the Dataset
 
